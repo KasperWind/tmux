@@ -1,9 +1,9 @@
 # tmux configuration
 
 ## Installation
-clone repo to home/.config/tmux
+clone repo to ```home/.config/tmux```
 
-create plugin folder
+create ```plugins``` folder
 
 clone following repos
 ```
