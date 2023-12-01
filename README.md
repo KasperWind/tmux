@@ -6,8 +6,10 @@ clone repo to home/.config/tmux
 create plugin folder
 
 clone following repos
-https://git::@github.com/dreamsofcode-io/catppuccin-tmux
-https://git::@github.com/catppuccin/tmux
-https://git::@github.com/tmux-plugins/tmux-sensible
-https://git::@github.com/tmux-plugins/tmux-yank
-https://git::@github.com/tmux-plugins/tpm
+```
+git clone https://git::@github.com/dreamsofcode-io/catppuccin-tmux
+git clone https://git::@github.com/catppuccin/tmux
+git clone https://git::@github.com/tmux-plugins/tmux-sensible
+git clone https://git::@github.com/tmux-plugins/tmux-yank
+git clone https://git::@github.com/tmux-plugins/tpm
+```
