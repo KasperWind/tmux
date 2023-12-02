@@ -3,6 +3,8 @@
 ## Installation
 clone repo to ```home/.config/tmux```
 
+clone ```git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm```
+
 create ```plugins``` folder
 
 clone following repos
